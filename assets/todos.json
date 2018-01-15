@@ -1,1 +1,18 @@
-null
+[
+    {
+        "task" : "firstTask",
+        "done" : false
+    },
+    {
+        "task" : "secondTask",
+        "done" : false
+    },
+    {
+        "task" : "thirdTask",
+        "done" : false
+    },
+    {
+        "task" : "fourthTask",
+        "done" : false
+    }
+]
